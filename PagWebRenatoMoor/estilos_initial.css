@@ -1,29 +1,10 @@
-/*
- * Globals
- */
 
 /* Links */
-
 a,
 a:focus,
 a:hover {
   color: #fff;
 }
-
-/* Custom default button */
-.btn-secondary,
-.btn-secondary:hover,
-.btn-secondary:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
-  border: .05rem solid #fff;
-}
-
-
-/*
- * Base structure
- */
 
 html,
 body {
@@ -31,15 +12,14 @@ body {
   background-image:url(https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-8/11147858_10206667233104931_8966459216858758254_o.jpg?oh=5bb2c1c9974ecaf4f84a5f2a7eb00d16&oe=599F4819); 
   background-position: 0% 90%;
   size: cover;
-
   background-repeat: no-repeat;
   margin-bottom: 0px;
-
 }
+
 body {
   color: #fff;
   text-align: center;
-  text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+  text-shadow: 0 .1rem .1rem rgba(0,0,0,.5);
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -62,7 +42,7 @@ body {
 
 /* Padding for spacing */
 .inner {
-  padding: 2rem;
+  padding: 3.5em;
 }
 
 
@@ -100,25 +80,12 @@ body {
   ;
 }
 
-@media (min-width: 48em) {
-  .masthead-brand {
-    float: left;
-  }
-  .nav-masthead {
-    float: right;
-  }
-}
-
-
-/*
- * Cover
- */
 
 .cover {
-  padding: 0 1.5rem;
+  padding: 0 1.6rem;
 }
 .cover .btn-lg {
-  padding: .75rem 1.25rem;
+  padding: .75rem 1.05rem;
   font-weight: bold;
 }
 
