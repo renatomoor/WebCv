@@ -1,0 +1,69 @@
+header {
+	background:#3E2723;
+	color:#fff;
+}
+
+body, html {
+	background: #EFEBE9;
+
+}
+
+body { 
+
+
+
+ }
+
+footer {
+	background:#3E2723;
+	color:#fff;
+	margin-top: 0.25em;
+
+}
+aside{
+
+	margin-top: 0.50em;
+	margin-bottom: -1em;
+}
+
+
+.tabla-boton {
+
+	background-color: #BCAAA4;
+	opacity: 0.9;
+	color: black;
+	border-radius: 15px;
+}
+
+.contenido-escondido {
+
+	background-color: #EFEBE9;
+	border-radius: 20px;
+}
+
+.active {
+	background-color: #333333;
+	color: white;
+}
+
+.active-1 {
+	background-color: #BCAAA4;
+	opacity: 0.9;
+	color: black;
+	border-radius: 15px;
+
+}
+
+.display-none {
+  display: none;
+}
+
+#map {
+        height: 400px;
+        width: 100%;
+       }
+
+.address{
+
+	margin-top: 2.5em;
+}
