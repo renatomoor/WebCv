@@ -1,0 +1,23 @@
+body {
+  position: relative;
+  background-color: #FAFAFA;
+
+}
+
+#foto1 {
+	max-height: 17em;
+	min-height: 15em;
+	max-width: 100%;
+
+}
+
+a{
+	color: #FFCDD2;
+}
+
+
+#parcours {padding-top:75px; padding-bottom: 45px;height:auto;color: white; background-color: #1E88E5;}
+#formation {padding-top:75px; padding-bottom: 45px;height:auto;color: black; background-color: #B3E5FC;}
+#expériences {padding-top:75px; padding-bottom: 45px; height:auto ;color: black; background-color: #81D4FA;}
+#anexes {padding-top:75px; padding-bottom: 45px;height:auto;color: black; background-color: #4FC3F7;}
+#contact {padding-top:75px; padding-bottom: 45px;height:auto;color: black; background-color: #29B6F6;}
