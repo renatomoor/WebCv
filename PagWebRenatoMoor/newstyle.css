@@ -4,20 +4,17 @@ body {
 
 }
 
-#foto1 {
-	max-height: 17em;
-	min-height: 15em;
-	max-width: 100%;
-
-}
-
 a{
-	color: #FFCDD2;
+	color: #FFFFFF;
 }
 
+#parcours {padding-top:70px; padding-bottom: 45px;height:auto;color: white; background-color: #1E88E5;}
+#formation {padding-top:70px; padding-bottom: 45px;height:auto;color: black; background-color:#99D3DF;}
+#expériences {padding-top:70px; padding-bottom: 45px; height:auto ;color: black; background-color:#4ABDAC;}
 
-#parcours {padding-top:75px; padding-bottom: 45px;height:auto;color: white; background-color: #1E88E5;}
-#formation {padding-top:75px; padding-bottom: 45px;height:auto;color: black; background-color: #B3E5FC;}
-#expériences {padding-top:75px; padding-bottom: 45px; height:auto ;color: black; background-color: #81D4FA;}
-#anexes {padding-top:75px; padding-bottom: 45px;height:auto;color: black; background-color: #4FC3F7;}
-#contact {padding-top:75px; padding-bottom: 45px;height:auto;color: black; background-color: #29B6F6;}
+#competences{padding-top:70px; padding-bottom: 45px;height:auto;color: white; background-color:#1E88E5;}
+
+
+#anexes {padding-top:70px; padding-bottom: 60px;height:auto;color: black; background-color:#99D3DF;}
+#contact {padding-top:70px; padding-bottom: 200px;height:auto;color: black; background-color: #4ABDAC;}
+
